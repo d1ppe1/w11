@@ -1,4 +1,4 @@
-nname: Basic Check
+name: Python Tests
 
 on: [push]
 
